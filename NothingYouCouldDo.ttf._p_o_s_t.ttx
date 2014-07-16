@@ -1,0 +1,104 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <post>
+    <formatType value="2.0"/>
+    <italicAngle value="0.0"/>
+    <underlinePosition value="-77"/>
+    <underlineThickness value="51"/>
+    <isFixedPitch value="0"/>
+    <minMemType42 value="0"/>
+    <maxMemType42 value="0"/>
+    <minMemType1 value="0"/>
+    <maxMemType1 value="0"/>
+    <psNames>
+      <!-- This file uses unique glyph names based on the information
+           found in the 'post' table. Since these names might not be unique,
+           we have to invent artificial names in case of clashes. In order to
+           be able to retain the original information, we need a name to
+           ps name mapping for those cases where they differ. That's what
+           you see below.
+            -->
+    </psNames>
+    <extraNames>
+      <!-- following are the name that are not taken from the standard Mac glyph order -->
+      <psName name="Abreve"/>
+      <psName name="abreve"/>
+      <psName name="Ccircumflex"/>
+      <psName name="ccircumflex"/>
+      <psName name="Cdotaccent"/>
+      <psName name="cdotaccent"/>
+      <psName name="Dcaron"/>
+      <psName name="Edotaccent"/>
+      <psName name="edotaccent"/>
+      <psName name="Ecaron"/>
+      <psName name="ecaron"/>
+      <psName name="Gcircumflex"/>
+      <psName name="gcircumflex"/>
+      <psName name="Gdotaccent"/>
+      <psName name="gdotaccent"/>
+      <psName name="Hcircumflex"/>
+      <psName name="hcircumflex"/>
+      <psName name="hbar"/>
+      <psName name="Itilde"/>
+      <psName name="Jcircumflex"/>
+      <psName name="jcircumflex"/>
+      <psName name="Lacute"/>
+      <psName name="lacute"/>
+      <psName name="Nacute"/>
+      <psName name="nacute"/>
+      <psName name="Ncaron"/>
+      <psName name="ncaron"/>
+      <psName name="Ohungarumlaut"/>
+      <psName name="ohungarumlaut"/>
+      <psName name="Racute"/>
+      <psName name="racute"/>
+      <psName name="Rcaron"/>
+      <psName name="rcaron"/>
+      <psName name="Sacute"/>
+      <psName name="sacute"/>
+      <psName name="Scircumflex"/>
+      <psName name="scircumflex"/>
+      <psName name="Tcaron"/>
+      <psName name="utilde"/>
+      <psName name="Ubreve"/>
+      <psName name="ubreve"/>
+      <psName name="Uring"/>
+      <psName name="uring"/>
+      <psName name="Uhungarumlaut"/>
+      <psName name="uhungarumlaut"/>
+      <psName name="Wcircumflex"/>
+      <psName name="wcircumflex"/>
+      <psName name="Ycircumflex"/>
+      <psName name="ycircumflex"/>
+      <psName name="Zacute"/>
+      <psName name="zacute"/>
+      <psName name="Zdotaccent"/>
+      <psName name="zdotaccent"/>
+      <psName name="uni1E02"/>
+      <psName name="uni1E03"/>
+      <psName name="uni1E0A"/>
+      <psName name="uni1E0B"/>
+      <psName name="uni1E1E"/>
+      <psName name="uni1E1F"/>
+      <psName name="uni1E40"/>
+      <psName name="uni1E41"/>
+      <psName name="uni1E56"/>
+      <psName name="uni1E57"/>
+      <psName name="uni1E60"/>
+      <psName name="uni1E61"/>
+      <psName name="uni1E6A"/>
+      <psName name="uni1E6B"/>
+      <psName name="Wgrave"/>
+      <psName name="wgrave"/>
+      <psName name="Wacute"/>
+      <psName name="wacute"/>
+      <psName name="Wdieresis"/>
+      <psName name="wdieresis"/>
+      <psName name="Ygrave"/>
+      <psName name="ygrave"/>
+      <psName name="Euro"/>
+    </extraNames>
+  </post>
+
+</ttFont>
